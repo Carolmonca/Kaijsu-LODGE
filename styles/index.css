@@ -1,0 +1,50 @@
+body{
+    background-color: aquamarine;
+}
+
+li{
+    background-color: brown;
+}
+
+#encabezado{
+    background-color: aqua;
+}
+
+.list-item{
+    font-size: 50px;
+}
+
+h1{
+    background-color: blue;
+    border: 2px dashed rgb(111, 170, 111);
+    padding: 50px 50px 50px 100px;
+}
+
+div{
+    background-color: rgb(201, 201, 14);
+    width: 60px;
+    height: 60px;
+    margin: 35px;
+    text-align: center;
+    align-content: center;
+}
+
+img {
+    border: 1px solid #c00808;
+    border-radius: 4px;
+    padding: 100px;
+    width: 500px;
+}
+
+.caja {
+}
+
+#contenedor {
+    background-color: blue;
+    flex-direction: row;
+    align-content: stretch;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+}
+
